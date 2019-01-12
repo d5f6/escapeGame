@@ -1,5 +1,4 @@
 {
-  "python.pythonPath": "C:\\Users\\denni\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
-  "python.linting.pylintEnabled": false,
-  "python.linting.enabled": false,
+  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+  "python.linting.pylintEnabled": false
 }
